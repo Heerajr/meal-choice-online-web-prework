@@ -1,3 +1,4 @@
 def meal_choice()
-  puts meat
+  "#{meat}"
+
 end
